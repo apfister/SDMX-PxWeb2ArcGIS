@@ -24,7 +24,7 @@ To support countries that use these systems/standards, a handful of python-based
   - Clone the default python environment (documentation [here](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-conda.htm#ESRI_SECTION2_61E4CFA5BAC144659038854CADEFC625))
   - [Activate](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-conda.htm#ESRI_SECTION2_6D0EEF731E2248A6BB91640C7D53BEAB) the new, cloned python environment
   - Open Anaconda command line prompt and verify you are using the cloned environment and not the default
-    - Assuming you have installed ArcGIS Pro @ `c:\Program Files\ArcGIS`, the command prompt can be found at `C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\proenv.bat`
+    - The command prompt can be found under **ArcGIS** in the start menu. If it is not there and, assuming you have installed ArcGIS Pro @ `c:\Program Files\ArcGIS`, the command prompt can be found at `C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\proenv.bat`
   - Install jsonstat.py by typing `pip install jsonstat.py` in the command prompt
   - Open ArcGIS Pro
 - Create a new Project in ArcGIS Pro
@@ -32,4 +32,11 @@ To support countries that use these systems/standards, a handful of python-based
 - Run the tool to import data from an API or from a folder of CSV files
 
 ## Running the Tools
+SDMX
+
+[TODO]
+
+PxWeb
+
+[TODO]
 
